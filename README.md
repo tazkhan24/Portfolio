@@ -1,1 +1,1 @@
-#Made This Portfolio website using html , css and javascript. It Contains my technical skills as well as my experience and contacts.
+# Made This Portfolio website using HTML , CSS and JS. It Contains my technical skills as well as my experience and contact details.
